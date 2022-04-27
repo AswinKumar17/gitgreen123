@@ -8,7 +8,7 @@ public class Degree {
 		System.out.println("Bachelor of Education");
 		}
 		public void bA() {
-		System.out.println("Bachelor of Arts");
+		System.out.println("Master of Arts");
 		}
 		public void bBA() {
 		System.out.println("Bachelor of Business Administration");
